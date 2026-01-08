@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Luka 👋
 
-<!--
-**gligor99/gligor99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer  
+📱 React Native (Expo) • Next.js • TypeScript  
+☁️ AWS • Cognito • Amplify  
 
-Here are some ideas to get you started:
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 LinkedIn: https://www.linkedin.com/in/lukagligorevic
