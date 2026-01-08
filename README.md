@@ -12,4 +12,4 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws)
 
-🔗 LinkedIn: https://www.linkedin.com/in/luka-gligorevic-1aa7271ba/ ovako ohcu 
+🔗 LinkedIn: https://www.linkedin.com/in/lukagligorevic
