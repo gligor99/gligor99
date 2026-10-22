@@ -1,6 +1,7 @@
 # Hi, I'm Luka 👋
 
 🚀 Fullstack & Mobile Developer 
+
 📱 React Native (Expo) • Next.js • TypeScript  
 ⚙️ Node.js • FastAPI  
 ☁️ AWS • Cognito • Amplify • SNS  
